@@ -1,3 +1,3 @@
-function distanceFromHqInBlocks (43) {
+function distanceFromHqInBlocks () {
   return "1";
 }
